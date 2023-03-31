@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import ProductDetailscarousel from "@/components/ProductDetailscarousel";
 import { IoMdHeartEmpty } from "react-icons/io";
 import Wrapper from "@/components/Wrapper";
-import { Button } from "@material-ui/core";
+
 import RelatedProducts from "@/components/RelatedProducts";
 import { fetchDataFromApi } from "@/utils/api";
 import { getDiscountedPricePercentage } from "@/utils/helper";
