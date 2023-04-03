@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import ProductDetailscarousel from "@/components/ProductDetailscarousel";
+import ProductDetailscarousel from "@/components/ProductDetailsCarousel";
 import { IoMdHeartEmpty } from "react-icons/io";
 import Wrapper from "@/components/Wrapper";
 
